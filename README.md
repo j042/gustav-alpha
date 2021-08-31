@@ -24,7 +24,6 @@ Clone and get ready.
 git clone git@github.com:j042/gustav.git
 cd gustav
 export GUS=$PWD
-git submodule update --init --recursive
 ```
 
 Create a new environment and install packages  
