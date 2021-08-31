@@ -1,0 +1,8 @@
+*.pyc
+*.so
+
+.eggs/
+build/
+triangle.egg-info/
+
+.plot

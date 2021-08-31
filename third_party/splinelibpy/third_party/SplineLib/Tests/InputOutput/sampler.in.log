@@ -1,0 +1,16 @@
+input:
+@itd_xml@
+
+output:
+@xml_vtk@
+
+splines:
+0 1 2 3 4 5
+
+numbers of parametric coordinates for splines:
+10
+10
+10 10
+10 10
+10 10 10
+10 10 10

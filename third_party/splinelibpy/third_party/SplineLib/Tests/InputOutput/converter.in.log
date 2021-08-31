@@ -1,0 +1,8 @@
+input:
+@irit_file@
+
+output:
+@itd_xml@
+
+splines:
+all
